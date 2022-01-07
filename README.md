@@ -5,5 +5,5 @@ O repositório é composto por 3 arquivos:
 * apresentação dos resultados em um Power Point
 
 ## Contatos
-jessica.c.villar@hotmail.com
-linkedin: https://www.linkedin.com/in/jessica-villar/
+* email: jessica.c.villar@hotmail.com
+* linkedin: https://www.linkedin.com/in/jessica-villar/
